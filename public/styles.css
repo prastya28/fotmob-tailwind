@@ -577,8 +577,28 @@ html {
   margin-right: 1rem;
 }
 
-.mt-5{
-  margin-top: 1.25rem;
+.mb-4{
+  margin-bottom: 1rem;
+}
+
+.mb-6{
+  margin-bottom: 1.5rem;
+}
+
+.mb-5{
+  margin-bottom: 1.25rem;
+}
+
+.ml-6{
+  margin-left: 1.5rem;
+}
+
+.mb-2{
+  margin-bottom: 0.5rem;
+}
+
+.mt-6{
+  margin-top: 1.5rem;
 }
 
 .inline-block{
@@ -654,8 +674,28 @@ html {
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }
 
+.p-5{
+  padding: 1.25rem;
+}
+
 .pb-2{
   padding-bottom: 0.5rem;
+}
+
+.pt-5{
+  padding-top: 1.25rem;
+}
+
+.pt-6{
+  padding-top: 1.5rem;
+}
+
+.pb-5{
+  padding-bottom: 1.25rem;
+}
+
+.pb-3{
+  padding-bottom: 0.75rem;
 }
 
 .text-lg{
