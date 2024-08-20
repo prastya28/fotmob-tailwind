@@ -10,7 +10,7 @@ Updated at **_Aug, 21st 2024_**
 
 Demo: [https://prastya.my.id/demo/fotmob-tailwind](https://prastya.my.id/demo/fotmob-tailwind/)
 
-![Screenshot / Oct, 2nd 2022](https://github.com/prastya28/fotmob-tailwind/blob/main/public/img/ss_01.png)
+![Screenshot / Oct, 2nd 2022](https://github.com/prastya28/fotmob-tailwind/blob/main/public/img/ss_01.jpeg)
 
 ### Credits
 
